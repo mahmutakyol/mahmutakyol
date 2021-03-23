@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mahmutakyol/mahmutakyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is mahmut from Turkey. I am working on Javascript technologies and I love improve myself this area. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on lots of JS techologies
+- 🌱 I’m currently learning NestJS, Kafka, RabbitMQ, Elasticsearch, ML, AI
+- 📫 How to reach me: mahmut.akyol@outlook.com.tr and via social media
+- ⚡ Fun fact: I ❤️ 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=mahmutakyol&show_icons=true&theme=radical)
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mmahmutakyol/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@mahmutakyol) 
