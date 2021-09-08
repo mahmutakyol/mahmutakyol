@@ -3,7 +3,7 @@
 This is mahmut from Turkey. I am working on Javascript technologies and I love improve myself this area. 
 
 - 🔭 I’m currently working on lots of JS techologies
-- 📕 New Java player ... 
+- 📕 New Java player ☕
 - 🌱 I’m currently learning Kafka, RabbitMQ, Elasticsearch, Java, Hibernate
 - 📫 How to reach me: mahmut.akyol@outlook.com.tr and via social media
 - ⚡ Fun fact: I ❤️ 🎮
